@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS project (
+);
+
+CREATE TABLE IF NOT EXISTS volunteers (
+);
