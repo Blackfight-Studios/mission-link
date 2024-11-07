@@ -4,7 +4,7 @@ import styles from './Sidebar.module.css';
 import Link from "next/link";
 import {useState} from "react";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import { faHome, faProjectDiagram, faUser, faCog, faBars } from '@fortawesome/free-solid-svg-icons';
+import { faHome, faProjectDiagram, faUser, faCog } from '@fortawesome/free-solid-svg-icons';
 
 function Sidebar() {
     const [isOpen, setIsOpen] = useState(false);
